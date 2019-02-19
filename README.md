@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Get Started
+
+Clone this repo and run `npm install`. Currently working with Node v8.15.0 and NPM v6.4.1.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -26,6 +31,11 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
+### `npm run dist`
+
+This command will create your executables for desktops in the `\dist` directory.
+To make Windows exe run this on a Windows machine. To make a Mac dmg run this on a Mac machine. To make a Linux deb run this on a Linux machine.
+
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
@@ -36,10 +46,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-### `npm run dist`
-
-This command will create your executables for desktops in the `\dist` directory.
-To make Windows exe run this on a Windows machine. To make a Mac dmg run this on a Mac machine. To make a Linux deb run this on a Linux machine.
 
 ## Learn More
 
