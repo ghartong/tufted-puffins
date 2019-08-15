@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Get Started
 
 Clone this repo and run `npm install`. Currently working with Node v8.15.0 and NPM v6.4.1.
-
+Run `npm install -g foreman`.
 
 ## Available Scripts
 
