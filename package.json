@@ -19,7 +19,7 @@
     "react-dom": "^16.8.6",
     "react-image-gallery": "^0.8.13",
     "react-player": "^1.9.3",
-    "react-scripts": "2.1.5"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "postinstall": "install-app-deps",
